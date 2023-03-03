@@ -2,5 +2,4 @@
 - 👀 I’m interested in making iOS and Android apps
 - 🌱 I’m currently learning SwiftUI and some backend stuff (Node.js)
 - 🏫 I've just finished my diploma about computer programming
-- 💞️ I’m looking to find a full time job as a software developer (iOS, Android or Front-end web)
 - 📫 How to reach me: ys.leung.uk AT gmail.com
