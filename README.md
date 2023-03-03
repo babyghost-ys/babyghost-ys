@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @babyghost-ys
 - 👀 I’m interested in making iOS and Android apps
-- 🌱 I’m currently learning SwiftUI and some backend stuff (Node.js)
 - 🏫 I've just finished my diploma about computer programming
 - 📫 How to reach me: ys.leung.uk AT gmail.com
